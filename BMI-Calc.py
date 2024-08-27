@@ -1,4 +1,4 @@
-print("====BMI Calculator====")
+print("====+++BMI Calculator+++====")
 h=float(input("Enter the height in cm: "))
 w=float(input("Ether the Weight in Kg: "))
 bmi=w/(h/100)**2
