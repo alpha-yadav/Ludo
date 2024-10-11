@@ -1,2 +1,2 @@
 # Ludo
-All code has written in html,& js
+Two player system ludo
