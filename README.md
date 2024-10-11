@@ -1,2 +1,2 @@
 # Ludo
-Two player system ludo
+Two player play this  ludo
